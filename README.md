@@ -1,4 +1,4 @@
-# WebGL3DVisualizationInJupyterWithVispy
+# WebGL 3D Visualization In Jupyter With Vispy
 Using Vispy you can render directly into Jupyter Lab via WebGL and use IPython Widget Sliders to interact.
 
 This gives some performance back, which you usually miss from python while still giving you a nice development workflow.
